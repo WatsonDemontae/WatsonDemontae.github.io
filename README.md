@@ -33,10 +33,10 @@ Developed a client-server communication system using Python socket programming. 
 
 ## Research Papers
 
-- **Essential Cybersecurity Measures in User Interface Design**  
+- [**Essential Cybersecurity Measures in User Interface Design**](https://github.com/WatsonDemontae/WatsonDemontae.github.io/blob/main/papers/UI_Design_Paper.pdf)
 Explores the critical design considerations needed to maintain security in user interfaces.
 
-- **Penetration Testing: Safeguarding Networks**  
+- [**Penetration Testing: Safeguarding Networks**](https://github.com/WatsonDemontae/WatsonDemontae.github.io/blob/main/papers/Pen_Testing_Paper.pdf)  
 A paper that outlines the process and importance of penetration testing in securing networks.
 
 ---
