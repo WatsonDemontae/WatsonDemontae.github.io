@@ -26,7 +26,7 @@ I used ArcGIS to map various aspects of crime and social factors. These maps pro
 
 Developed a client-server communication system using Python socket programming. This system ensures secure messages, following cybersecurity principles.
 
-[View Code on GitHub](https://github.com/prodigiously/Server-Client-Secure-Chat)
+[View Code on GitHub](https://github.com/WatsonDemontae/Server-Client-Secure-Chat)
 
 ---
 
