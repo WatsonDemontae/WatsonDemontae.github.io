@@ -1,5 +1,4 @@
 # prodigiously.github.io
 Projects Portfolio
-# test title
-- test bullet point
-** test bold **
+![Alt text](./school.jpg)
+
