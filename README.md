@@ -12,12 +12,12 @@ Welcome to my portfolio! I am currently a second-year Cybersecurity major with a
 I used ArcGIS to map various aspects of crime and social factors. These maps provide insights into how factors like poverty, police allocation, and natural disasters impact crime rates.
 
 #### Maps:
-- ![Police Allocation](images/Police_Allocation.jpg)
-- ![Poverty Crime Rates in California](images/Poverty_Crime_Rates_CA.jpg)
-- ![Poverty Crime Rates in Virginia](images/Poverty_Crime_Rates_VA.jpg)
-- ![Poverty Rates](images/Poverty_Rates.jpg)
-- ![School Placement](images/School_Placement.jpg)
-- ![Typhoon Mapping](images/Typhoon_Mapping.jpg)
+ ![Police Allocation](images/Police_Allocation.jpg)
+ ![Poverty Crime Rates in California](images/Poverty_Crime_Rates_CA.jpg)
+ ![Poverty Crime Rates in Virginia](images/Poverty_Crime_Rates_VA.jpg)
+ ![Poverty Rates](images/Poverty_Rates.jpg)
+ ![School Placement](images/School_Placement.jpg)
+ ![Typhoon Mapping](images/Typhoon_Mapping.jpg)
 
 
 ---
