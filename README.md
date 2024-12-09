@@ -41,6 +41,30 @@ A paper that outlines the process and importance of penetration testing in secur
 
 ---
 
+## Cybersecurity Labs
+
+### **Network Security**
+- Securing the pfSense Firewall
+- Implementing NAT and Allowing Remote Access
+- Configuring a Windows Based Firewall to Allow Incoming Traffic
+- Intrusion Detection using Snort
+- Examining Wireless Networks
+- Deep Dive in Packet Analysis - Using Wireshark and Network Miner
+- Closing Security Holes
+
+### **System Security and Maintenance**
+- Implementing Common Protocols and Services
+- Patching, Securing Systems, and Configuring Anti-Virus
+- Implementing Security Policies on Windows and Linux
+- Data Backups in Windows, BSD, and Linux
+- Using Active Directory in the Enterprise
+
+### **Incident Response and Analysis**
+- Incident Response Procedures, Forensics, and Forensic Analysis
+- Log Analysis
+
+---
+
 ## Contact Me
 - **Email:** [dwats006@odu.edu](mailto:dwats006@odu.edu)
 - **LinkedIn:** [Demontae Watson](https://www.linkedin.com/in/demontae-watson-8b61012b6/)
