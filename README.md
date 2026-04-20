@@ -57,7 +57,7 @@ Developed a client-server communication system using Python socket programming. 
 ## Research Papers
 
 ### The Dissolving Contract: Federal AI, Data Privacy, and the Erosion of Informational Trust
-- [Read Paper](https://github.com/WatsonDemontae/WatsonDemontae.github.io/blob/main/papers/Dissolving_Contract_Paper.pdf)
+- [Read Paper](https://github.com/WatsonDemontae/WatsonDemontae.github.io/blob/main/papers/The%20Dissolving%20Contract%20Federal%20AI%2C%20Data%20Privacy%2C%20and%20the%20Erosion%20of%20Informational%20Trust.pdf)
 
 ### Essential Cybersecurity Measures in User Interface Design
 - [Read Paper](https://github.com/WatsonDemontae/WatsonDemontae.github.io/blob/main/papers/UI_Design_Paper.pdf)
